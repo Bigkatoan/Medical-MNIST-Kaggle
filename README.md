@@ -10,4 +10,4 @@ https://www.kaggle.com/datasets/gennadiimanzhos/medical-mnist-train-test-val
 
 This repository reach 98.9% accuracy on Mefical MNIST dataset. 
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Bigkatoan/Medical-MNIST-Kaggle/blob/main/images/img.png)https://github.com/Bigkatoan/Medical-MNIST-Kaggle/blob/main/images/img.png)
+![alt text](https://github.com/Bigkatoan/Medical-MNIST-Kaggle/blob/main/images/img.png)
